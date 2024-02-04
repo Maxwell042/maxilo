@@ -1,0 +1,70 @@
+
+  
+  .form1{
+    display: grid;
+    width: 420PX;
+    margin-left: 50px;
+    border: none;
+    background: rgba(255, 255, 255, 0.38);
+   background-position: cover;
+    padding: 40px;
+    padding-top: 250px;
+   
+    
+ 
+   }
+   .jboy{
+ border-radius: 10px;
+ border: none;
+   }
+   img{
+     height: 24px;
+     align-items: center;
+   }
+   .account{
+     gap: 50px;
+     background-image: url(Homepage.png);
+     background-size: cover no-repeat;
+     background-position: center;
+     background-color: gray;
+     height: 999px;
+     
+    
+   }
+   .form4{
+     background-color: green;
+     background-position: center;
+     color: white;
+     width: 200px;
+     border: none;
+     text-align: center;
+     padding: x;
+     margin-left: 50px;
+     padding-left: 95px;
+     gap: 20px;
+     padding-bottom: 50px; 
+   }
+   .form3{
+     
+    
+ 
+      
+   }
+   .unn{
+     border: none;
+     border-radius: 10px;
+     width: 300px;
+     height: 40px
+   }
+   .unp{
+     border: none;
+     border-radius: 10px;
+     color: white;
+     background-color: green;
+     width: 300px;
+     height: 40px;  
+   }
+   .all{
+   padding-left: 40px;
+   }
+ 
